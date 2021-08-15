@@ -42,7 +42,6 @@ body {
 
 .image {
   width: 100%;
-  padding-top: 1rem;
   max-width: 350px;
   display: block;
   margin: auto;
@@ -69,7 +68,6 @@ body {
 .tech h4 {
   color: var(--off-white);
   font-weight: 800;
-  padding: 0 0.5rem;
   background-color: var(--primary-color);
 }
 .projects {
