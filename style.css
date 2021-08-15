@@ -45,6 +45,7 @@ body {
   transition: 0.5s;
 }
 .image {
+  width: 100%;
   padding: 2rem;
   max-width: 450px;
   display: block;
@@ -61,6 +62,7 @@ body {
 }
 
 .tech {
+  width: 100%;
   padding-top: 1rem;
   background-color: var(--primary-color);
   text-align: center;
