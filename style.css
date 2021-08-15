@@ -11,6 +11,11 @@ body {
   margin: 0;
   padding: 0;
 }
+.main {
+  width: 100%;
+
+  margin: auto;
+}
 .navigation {
   background-color: var(--primary-color);
   padding-top: 2rem;
