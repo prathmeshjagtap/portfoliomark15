@@ -46,7 +46,7 @@ body {
 
 .image {
   width: 100%;
-  padding: 2rem;
+  /* padding: 2rem; */
   max-width: 450px;
   display: block;
   margin: auto;
@@ -62,12 +62,13 @@ body {
 }
 
 .tech {
-  width: 100%;
   padding-top: 1rem;
   background-color: var(--primary-color);
   text-align: center;
   padding-bottom: 1.5rem;
   border-radius: 2rem;
+  width: 100%;
+  margin: auto;
 }
 .tech h4 {
   color: var(--off-white);
